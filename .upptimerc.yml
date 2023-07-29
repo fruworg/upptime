@@ -22,6 +22,8 @@ status-website:
   navbar:
     - title: фрув.орг
       href: https://fruw.org
+  theme: night
+
 i18n:
   activeIncidents: Активные инциденты
   allSystemsOperational: Все системы работают
