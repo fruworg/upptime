@@ -30,7 +30,7 @@ status-website:
   navbar:
     - title: фрув.орг
       href: https://fruw.org
-  theme: night
+  theme: ocean
 
 i18n:
   activeIncidents: Активные инциденты
