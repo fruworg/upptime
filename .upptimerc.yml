@@ -20,10 +20,69 @@ status-website:
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: фрув.орг
+      href: https://fruw.org
+i18n:
+  activeIncidents: Активные инциденты
+  allSystemsOperational: Все системы работают
+  incidentReport: "Отчет об инциденте #$NUMBER →"
+  activeIncidentSummary: Открыт $DATE, $POSTS сообщений
+  incidentTitle: Подробности инцидента $NUMBER
+  incidentDetails: Подробности инцидента
+  incidentFixed: Устранено
+  incidentOngoing: В процессе
+  incidentOpenedAt: Открыто в
+  incidentClosedAt: Закрыто в
+  incidentViewOnGitHub: Посмотреть и подписаться на GitHub
+  incidentCommentSummary: Опубликовано $DATE, $AUTHOR
+  incidentBack: ← Вернуться ко всем инцидентам
+  pastIncidents: Прошлые инциденты
+  pastIncidentsResolved: Устранено за $MINUTES минут, $POSTS сообщений
+  liveStatus: Текущее состояние
+  overallUptime: "Общее время работы: $UPTIME"
+  overallUptimeTitle: Общее время работы
+  averageResponseTime: "Среднее время ответа: $TIMEмс"
+  averageResponseTimeTitle: Среднее время ответа
+  sevenDayResponseTime: Время ответа за 7 дней
+  responseTimeMs: Время ответа (мс)
+  up: Работает
+  down: Не работает
+  degraded: Ограниченная работа
+  ms: мс
+  loading: Загрузка
+  navGitHub: GitHub
+  footer: Эта страница [open-source]($REPO), работает на [Upptime](https://upptime.js.org)
+  rateLimitExceededTitle: Превышен лимит запросов
+  rateLimitExceededIntro: Вы превысили количество запросов на этом сайте за час, поэтому вам придется подождать, прежде чем получить доступ к нему снова. Вы также можете добавить персональный токен доступа GitHub, чтобы продолжить использование сайта.
+  rateLimitExceededWhatDoesErrorMean: Что означает эта ошибка?
+  rateLimitExceededErrorMeaning: Этот сайт использует API GitHub для получения данных о статусе наших веб-сайтов в реальном времени. По умолчанию GitHub разрешает каждому IP-адресу 60 запросов в час, которые вы исчерпали.
+  rateLimitExceededErrorHowCanFix: Как я могу исправить это?
+  rateLimitExceededErrorFix: Вы можете подождать еще один час, и лимит вашего IP-адреса будет восстановлен. В противном случае, вы можете добавить персональный токен доступа GitHub, который дает вам дополнительно 5000 запросов в час.
+  rateLimitExceededGeneratePAT: Узнайте, как сгенерировать персональный токен доступа
+  rateLimitExceededHasSet: У вас установлен персональный токен доступа.
+  rateLimitExceededRemoveToken: Удалить токен
+  rateLimitExceededGitHubPAT: Персональный токен доступа GitHub
+  rateLimitExceededCopyPastePAT: Скопируйте и вставьте свой токен
+  rateLimitExceededSaveToken: Сохранить токен
+  errorTitle: Произошла ошибка
+  errorIntro: Произошла ошибка при получении последних данных о состоянии.
+  errorText: Вы можете попробовать снова через несколько мгновений.
+  errorHome: Перейти на главную страницу
+  pastScheduledMaintenance: Прошедшие запланированные работы
+  scheduledMaintenance: Запланированные работы
+  scheduledMaintenanceSummaryStarted: Начало $DATE, $DURATION минут
+  scheduledMaintenanceSummaryStarts: Начало $DATE, $DURATION минут
+  startedAt: Начало
+  startsAt: Начинается
+  duration: Продолжительность
+  durationMin: $DURATION минут
+  incidentCompleted: Завершено
+  incidentScheduled: Запланировано
+  duration24H: 24ч
+  duration7D: 7дн
+  duration30D: 30дн
+  duration1Y: 1г
+  durationAll: всё
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
