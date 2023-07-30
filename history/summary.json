@@ -40,19 +40,19 @@
     "url": "https://mail.cock.li",
     "icon": "https://icons.duckduckgo.com/ip3/mail.cock.li.ico",
     "slug": "cock-li",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 902,
-    "timeDay": 842,
-    "timeWeek": 902,
-    "timeMonth": 902,
-    "timeYear": 902,
+    "status": "up",
+    "uptime": "99.54%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
+    "time": 901,
+    "timeDay": 860,
+    "timeWeek": 901,
+    "timeMonth": 901,
+    "timeYear": 901,
     "dailyMinutesDown": {
-      "2023-07-30": 0
+      "2023-07-30": 8
     }
   }
 ]
