@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 493,
-    "timeDay": 529,
-    "timeWeek": 493,
-    "timeMonth": 493,
-    "timeYear": 493,
+    "time": 450,
+    "timeDay": 424,
+    "timeWeek": 450,
+    "timeMonth": 450,
+    "timeYear": 450,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 428,
-    "timeDay": 431,
-    "timeWeek": 428,
-    "timeMonth": 428,
-    "timeYear": 428,
+    "time": 424,
+    "timeDay": 417,
+    "timeWeek": 424,
+    "timeMonth": 424,
+    "timeYear": 424,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.cock.li.ico",
     "slug": "cock-li",
     "status": "up",
-    "uptime": "99.54%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.54%",
-    "time": 901,
-    "timeDay": 860,
-    "timeWeek": 901,
-    "timeMonth": 901,
-    "timeYear": 901,
-    "dailyMinutesDown": {
-      "2023-07-30": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 891,
+    "timeDay": 944,
+    "timeWeek": 891,
+    "timeMonth": 891,
+    "timeYear": 891,
+    "dailyMinutesDown": {}
   }
 ]
