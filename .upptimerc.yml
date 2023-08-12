@@ -15,6 +15,8 @@ sites:
   #  url: https://tv.fruw.org
   #- name: seafile
   #  url: https://sea.fruw.org
+  - name: aeza
+    url: https://aeza.net
   - name: riseup
     url: https://mail.riseup.net
   - name: cock.li
