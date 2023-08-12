@@ -16,7 +16,7 @@ sites:
   #- name: seafile
   #  url: https://sea.fruw.org
   - name: aeza
-    url: https://aeza.net
+    url: https://my.aeza.net
   - name: riseup
     url: https://mail.riseup.net
   - name: cock.li
