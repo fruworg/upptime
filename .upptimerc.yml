@@ -3,25 +3,25 @@ owner: fruworg # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: fruworg
+  - name: fruw.org
     url: https://fruw.org
-  - name: mail
+  - name: mail.fruw.org
     url: https://mail.fruw.org
-  - name: matrix
+  - name: matrix.fruw.org
     url: https://matrix.fruw.org
-  - name: vault
+  - name: vault.fruw.org
     url: https://vault.fruw.org
-  #- name: git
-  #  url: https://git.fruw.org
+  - name: git.fruw.org
+    url: https://git.fruw.org
   #- name: tv
   #  url: https://tv.fruw.org
   #- name: seafile
   #  url: https://sea.fruw.org
-  - name: aeza
+  - name: my.aeza.net
     url: https://my.aeza.net
-  - name: riseup
+  - name: mail.riseup.net
     url: https://mail.riseup.net
-  - name: cock.li
+  - name: mail.cock.li
     url: https://mail.cock.li
 
 status-website:
