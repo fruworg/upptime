@@ -11,8 +11,8 @@ sites:
     url: https://matrix.fruw.org
   - name: vault
     url: https://vault.fruw.org
-  - name: git
-    url: https://git.cock.li
+  #- name: git
+  #  url: https://git.fruw.org
   #- name: tv
   #  url: https://tv.fruw.org
   #- name: seafile
