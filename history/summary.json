@@ -40,7 +40,7 @@
     "url": "https://my.aeza.net",
     "icon": "https://icons.duckduckgo.com/ip3/my.aeza.net.ico",
     "slug": "aeza",
-    "status": "up",
+    "status": "down",
     "uptime": "93.02%",
     "uptimeDay": "93.02%",
     "uptimeWeek": "93.02%",
@@ -52,6 +52,7 @@
     "timeMonth": 1460,
     "timeYear": 1460,
     "dailyMinutesDown": {
+      "2023-08-13": 0,
       "2023-08-12": 63
     }
   },
