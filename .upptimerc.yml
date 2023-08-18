@@ -20,6 +20,8 @@ status-website:
   cname: up.fruw.org
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/fruworg/upptime/main/static/img/up.fruw.org.svg
+  favicon: https://raw.githubusercontent.com/fruworg/upptime/main/static/img/up.fruw.org.ico
+  faviconSvg: https://raw.githubusercontent.com/fruworg/upptime/main/static/img/up.fruw.org.svg
   name: аптайм
   introTitle: "Страница мониторинга состояний моих серверов."
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
