@@ -22,19 +22,19 @@
     "url": "https://mail.fruw.org",
     "icon": "https://icons.duckduckgo.com/ip3/mail.fruw.org.ico",
     "slug": "mail-fruw-org",
-    "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "98.87%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1115,
     "timeDay": 908,
-    "timeWeek": 1179,
+    "timeWeek": 842,
     "timeMonth": 1115,
     "timeYear": 1115,
     "dailyMinutesDown": {
-      "2023-08-20": 16
+      "2023-08-20": 0
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://matrix.fruw.org",
     "icon": "https://icons.duckduckgo.com/ip3/matrix.fruw.org.ico",
     "slug": "matrix-fruw-org",
-    "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "98.90%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 580,
     "timeDay": 630,
     "timeWeek": 593,
     "timeMonth": 580,
     "timeYear": 580,
     "dailyMinutesDown": {
-      "2023-08-20": 16
+      "2023-08-20": 0
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://vault.fruw.org",
     "icon": "https://icons.duckduckgo.com/ip3/vault.fruw.org.ico",
     "slug": "vault-fruw-org",
-    "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "98.35%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 537,
     "timeDay": 584,
     "timeWeek": 549,
     "timeMonth": 537,
     "timeYear": 537,
     "dailyMinutesDown": {
-      "2023-08-20": 23
+      "2023-08-20": 0
     }
   },
   {
@@ -83,18 +83,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.fruw.org.ico",
     "slug": "git-fruw-org",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 699,
     "timeDay": 713,
-    "timeWeek": 708,
+    "timeWeek": 679,
     "timeMonth": 699,
     "timeYear": 699,
-    "dailyMinutesDown": {
-      "2023-08-20": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
