@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 224,
-    "timeDay": 395,
+    "time": 220,
+    "timeDay": 175,
     "timeWeek": 232,
-    "timeMonth": 224,
-    "timeYear": 224,
+    "timeMonth": 220,
+    "timeYear": 220,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.fruw.org.ico",
     "slug": "mail-fruw-org",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1103,
-    "timeDay": 918,
-    "timeWeek": 850,
+    "timeDay": 937,
+    "timeWeek": 892,
     "timeMonth": 1103,
     "timeYear": 1103,
-    "dailyMinutesDown": {
-      "2023-08-20": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "matrix.fruw.org",
@@ -43,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/matrix.fruw.org.ico",
     "slug": "matrix-fruw-org",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 581,
-    "timeDay": 620,
-    "timeWeek": 594,
-    "timeMonth": 581,
-    "timeYear": 581,
-    "dailyMinutesDown": {
-      "2023-08-20": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 583,
+    "timeDay": 580,
+    "timeWeek": 607,
+    "timeMonth": 583,
+    "timeYear": 583,
+    "dailyMinutesDown": {}
   },
   {
     "name": "vault.fruw.org",
@@ -63,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/vault.fruw.org.ico",
     "slug": "vault-fruw-org",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 541,
-    "timeDay": 585,
-    "timeWeek": 552,
-    "timeMonth": 541,
-    "timeYear": 541,
-    "dailyMinutesDown": {
-      "2023-08-20": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 543,
+    "timeDay": 588,
+    "timeWeek": 554,
+    "timeMonth": 543,
+    "timeYear": 543,
+    "dailyMinutesDown": {}
   },
   {
     "name": "git.fruw.org",
@@ -88,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 699,
-    "timeDay": 713,
-    "timeWeek": 679,
-    "timeMonth": 699,
-    "timeYear": 699,
+    "time": 706,
+    "timeDay": 704,
+    "timeWeek": 694,
+    "timeMonth": 706,
+    "timeYear": 706,
     "dailyMinutesDown": {}
   }
 ]
