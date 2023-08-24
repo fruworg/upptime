@@ -5,12 +5,17 @@ repo: upptime # The name of this repository
 sites:
   - name: fruw.org
     url: https://fruw.org
+    icon: https://fruw.org/favicon.ico
+    
   - name: mail.fruw.org
     url: https://mail.fruw.org
+    
   - name: matrix.fruw.org
     url: https://matrix.fruw.org
+    
   - name: vault.fruw.org
     url: https://vault.fruw.org
+    
   - name: git.fruw.org
     url: https://git.fruw.org
 
