@@ -58,18 +58,20 @@
     "url": "https://vault.fruw.org",
     "icon": "https://icons.duckduckgo.com/ip3/vault.fruw.org.ico",
     "slug": "vault-fruw-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 544,
-    "timeDay": 499,
-    "timeWeek": 518,
-    "timeMonth": 559,
-    "timeYear": 544,
-    "dailyMinutesDown": {}
+    "time": 542,
+    "timeDay": 471,
+    "timeWeek": 509,
+    "timeMonth": 555,
+    "timeYear": 542,
+    "dailyMinutesDown": {
+      "2023-09-29": 0
+    }
   },
   {
     "name": "git.fruw.org",
