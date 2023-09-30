@@ -8,6 +8,8 @@ sites:
     
   - name: mail.fruw.org
     url: https://mail.fruw.org
+    expectedStatusCodes:
+      - 403
     
   - name: matrix.fruw.org
     url: https://matrix.fruw.org
