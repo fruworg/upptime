@@ -22,18 +22,20 @@
     "url": "https://mail.fruw.org",
     "icon": "https://icons.duckduckgo.com/ip3/mail.fruw.org.ico",
     "slug": "mailu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 499,
-    "timeDay": 493,
-    "timeWeek": 499,
-    "timeMonth": 499,
-    "timeYear": 499,
-    "dailyMinutesDown": {}
+    "time": 552,
+    "timeDay": 682,
+    "timeWeek": 552,
+    "timeMonth": 552,
+    "timeYear": 552,
+    "dailyMinutesDown": {
+      "2023-10-04": 0
+    }
   },
   {
     "name": "matrix",
