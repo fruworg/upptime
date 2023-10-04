@@ -10,6 +10,7 @@ sites:
     url: https://mail.fruw.org
     expectedStatusCodes:
       - 403
+      - 401
     
   - name: matrix
     url: https://matrix.fruw.org
