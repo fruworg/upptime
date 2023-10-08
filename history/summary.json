@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.fruw.org.ico",
     "slug": "mailu",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.91%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 752,
     "timeDay": 1038,
     "timeWeek": 849,
     "timeMonth": 752,
     "timeYear": 752,
     "dailyMinutesDown": {
-      "2023-10-08": 0
+      "2023-10-08": 11
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/matrix.fruw.org.ico",
     "slug": "matrix",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.91%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 492,
     "timeDay": 481,
     "timeWeek": 500,
     "timeMonth": 489,
     "timeYear": 492,
     "dailyMinutesDown": {
-      "2023-10-08": 0
+      "2023-10-08": 11
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://vault.fruw.org",
     "icon": "https://icons.duckduckgo.com/ip3/vault.fruw.org.ico",
     "slug": "vaultwarden",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 502,
-    "timeDay": 478,
-    "timeWeek": 511,
-    "timeMonth": 502,
-    "timeYear": 502,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 509,
+    "timeDay": 530,
+    "timeWeek": 519,
+    "timeMonth": 509,
+    "timeYear": 509,
     "dailyMinutesDown": {
-      "2023-10-08": 0
+      "2023-10-08": 11
     }
   },
   {
@@ -82,19 +82,19 @@
     "url": "https://git.fruw.org",
     "icon": "https://icons.duckduckgo.com/ip3/git.fruw.org.ico",
     "slug": "gitea",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 687,
-    "timeDay": 648,
-    "timeWeek": 683,
-    "timeMonth": 687,
-    "timeYear": 687,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 684,
+    "timeDay": 647,
+    "timeWeek": 679,
+    "timeMonth": 684,
+    "timeYear": 684,
     "dailyMinutesDown": {
-      "2023-10-08": 0
+      "2023-10-08": 11
     }
   },
   {
@@ -102,19 +102,19 @@
     "url": "https://turn.fruw.org",
     "icon": "https://icons.duckduckgo.com/ip3/turn.fruw.org.ico",
     "slug": "eturnal",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 486,
-    "timeDay": 473,
-    "timeWeek": 487,
-    "timeMonth": 486,
-    "timeYear": 486,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 484,
+    "timeDay": 472,
+    "timeWeek": 485,
+    "timeMonth": 484,
+    "timeYear": 484,
     "dailyMinutesDown": {
-      "2023-10-08": 0
+      "2023-10-08": 11
     }
   }
 ]
