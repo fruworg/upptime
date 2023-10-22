@@ -6,7 +6,7 @@
     "slug": "blog",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.84%",
@@ -16,6 +16,7 @@
     "timeMonth": 388,
     "timeYear": 388,
     "dailyMinutesDown": {
+      "2023-10-22": 0,
       "2023-10-09": 50
     }
   },
@@ -25,11 +26,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.fruw.org.ico",
     "slug": "mailu",
     "status": "up",
-    "uptime": "97.03%",
+    "uptime": "97.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.03%",
-    "uptimeYear": "97.03%",
+    "uptimeMonth": "97.08%",
+    "uptimeYear": "97.08%",
     "time": 915,
     "timeDay": 1081,
     "timeWeek": 1047,
