@@ -17,6 +17,9 @@ sites:
     
   - name: vaultwarden
     url: https://vault.fruw.org
+    expectedStatusCodes:
+      - 403
+      - 401
     
   - name: gitea
     url: https://git.fruw.org
