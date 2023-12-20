@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fruw.org.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.86%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.11%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
     "time": 484,
     "timeDay": 296,
     "timeWeek": 501,
     "timeMonth": 540,
     "timeYear": 484,
     "dailyMinutesDown": {
-      "2023-12-20": 16
+      "2023-12-20": 27
     }
   },
   {
@@ -64,10 +64,10 @@
     "url": "https://vault.fruw.org",
     "icon": "https://icons.duckduckgo.com/ip3/vault.fruw.org.ico",
     "slug": "vaultwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "96.68%",
-    "uptimeDay": "98.94%",
-    "uptimeWeek": "61.68%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "61.67%",
     "uptimeMonth": "91.18%",
     "uptimeYear": "96.68%",
     "time": 503,
@@ -76,7 +76,7 @@
     "timeMonth": 518,
     "timeYear": 503,
     "dailyMinutesDown": {
-      "2023-12-20": 15,
+      "2023-12-20": 16,
       "2023-12-16": 683,
       "2023-12-15": 1440,
       "2023-12-14": 1440,
@@ -88,9 +88,9 @@
     "url": "https://git.fruw.org",
     "icon": "https://icons.duckduckgo.com/ip3/git.fruw.org.ico",
     "slug": "gitea",
-    "status": "up",
+    "status": "down",
     "uptime": "98.74%",
-    "uptimeDay": "98.95%",
+    "uptimeDay": "98.92%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "96.66%",
     "uptimeYear": "98.74%",
@@ -110,19 +110,19 @@
     "url": "https://turn.fruw.org",
     "icon": "https://icons.duckduckgo.com/ip3/turn.fruw.org.ico",
     "slug": "eturnal",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 478,
     "timeDay": 558,
     "timeWeek": 481,
     "timeMonth": 485,
     "timeYear": 478,
     "dailyMinutesDown": {
-      "2023-12-20": 15
+      "2023-12-20": 0
     }
   }
 ]
