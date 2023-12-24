@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/fruw.org.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.28%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.86%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 486,
-    "timeDay": 435,
-    "timeWeek": 495,
+    "timeDay": 501,
+    "timeWeek": 497,
     "timeMonth": 531,
     "timeYear": 486,
-    "dailyMinutesDown": {
-      "2023-12-20": 173
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "mailu",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.fruw.org.ico",
     "slug": "mailu",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.38%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.86%",
-    "time": 960,
-    "timeDay": 945,
-    "timeWeek": 955,
-    "timeMonth": 977,
-    "timeYear": 960,
-    "dailyMinutesDown": {
-      "2023-12-20": 163
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 961,
+    "timeDay": 1030,
+    "timeWeek": 964,
+    "timeMonth": 979,
+    "timeYear": 961,
+    "dailyMinutesDown": {}
   },
   {
     "name": "matrix",
@@ -45,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/matrix.fruw.org.ico",
     "slug": "matrix",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.39%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.86%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 526,
-    "timeDay": 515,
-    "timeWeek": 496,
-    "timeMonth": 514,
+    "timeDay": 529,
+    "timeWeek": 510,
+    "timeMonth": 515,
     "timeYear": 526,
-    "dailyMinutesDown": {
-      "2023-12-20": 163
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "vaultwarden",
@@ -65,23 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/vault.fruw.org.ico",
     "slug": "vaultwarden",
     "status": "up",
-    "uptime": "96.65%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "92.05%",
-    "uptimeMonth": "90.83%",
-    "uptimeYear": "96.65%",
-    "time": 507,
-    "timeDay": 404,
-    "timeWeek": 593,
-    "timeMonth": 521,
-    "timeYear": 507,
-    "dailyMinutesDown": {
-      "2023-12-20": 171,
-      "2023-12-16": 683,
-      "2023-12-15": 1440,
-      "2023-12-14": 1440,
-      "2023-12-13": 285
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 508,
+    "timeDay": 608,
+    "timeWeek": 607,
+    "timeMonth": 526,
+    "timeYear": 508,
+    "dailyMinutesDown": {}
   },
   {
     "name": "gitea",
@@ -89,21 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.fruw.org.ico",
     "slug": "gitea",
     "status": "up",
-    "uptime": "98.67%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.56%",
-    "uptimeMonth": "96.37%",
-    "uptimeYear": "98.67%",
-    "time": 676,
-    "timeDay": 627,
-    "timeWeek": 631,
-    "timeMonth": 647,
-    "timeYear": 676,
-    "dailyMinutesDown": {
-      "2023-12-20": 145,
-      "2023-11-28": 42,
-      "2023-11-27": 1404
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 677,
+    "timeDay": 685,
+    "timeWeek": 646,
+    "timeMonth": 650,
+    "timeYear": 677,
+    "dailyMinutesDown": {}
   },
   {
     "name": "eturnal",
@@ -111,18 +95,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/turn.fruw.org.ico",
     "slug": "eturnal",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.71%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.89%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 476,
-    "timeDay": 340,
-    "timeWeek": 461,
-    "timeMonth": 470,
+    "timeDay": 475,
+    "timeWeek": 478,
+    "timeMonth": 471,
     "timeYear": 476,
-    "dailyMinutesDown": {
-      "2023-12-20": 130
-    }
+    "dailyMinutesDown": {}
   }
 ]
