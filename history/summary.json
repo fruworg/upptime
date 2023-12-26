@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/fruw.org.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 487,
-    "timeDay": 510,
-    "timeWeek": 489,
-    "timeMonth": 529,
+    "timeDay": 562,
+    "timeWeek": 493,
+    "timeMonth": 532,
     "timeYear": 487,
-    "dailyMinutesDown": {
-      "2023-12-25": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "mailu",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.fruw.org.ico",
     "slug": "mailu",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 961,
-    "timeDay": 970,
-    "timeWeek": 960,
-    "timeMonth": 983,
-    "timeYear": 961,
-    "dailyMinutesDown": {
-      "2023-12-25": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 962,
+    "timeDay": 977,
+    "timeWeek": 983,
+    "timeMonth": 990,
+    "timeYear": 962,
+    "dailyMinutesDown": {}
   },
   {
     "name": "matrix",
@@ -45,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/matrix.fruw.org.ico",
     "slug": "matrix",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 526,
-    "timeDay": 525,
-    "timeWeek": 496,
-    "timeMonth": 521,
-    "timeYear": 526,
-    "dailyMinutesDown": {
-      "2023-12-25": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 527,
+    "timeDay": 554,
+    "timeWeek": 516,
+    "timeMonth": 523,
+    "timeYear": 527,
+    "dailyMinutesDown": {}
   },
   {
     "name": "vaultwarden",
@@ -65,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/vault.fruw.org.ico",
     "slug": "vaultwarden",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 508,
-    "timeDay": 511,
-    "timeWeek": 574,
-    "timeMonth": 526,
-    "timeYear": 508,
-    "dailyMinutesDown": {
-      "2023-12-25": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 509,
+    "timeDay": 570,
+    "timeWeek": 590,
+    "timeMonth": 532,
+    "timeYear": 509,
+    "dailyMinutesDown": {}
   },
   {
     "name": "gitea",
@@ -85,19 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.fruw.org.ico",
     "slug": "gitea",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 674,
-    "timeDay": 603,
-    "timeWeek": 625,
-    "timeMonth": 645,
-    "timeYear": 674,
-    "dailyMinutesDown": {
-      "2023-12-25": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 675,
+    "timeDay": 616,
+    "timeWeek": 638,
+    "timeMonth": 644,
+    "timeYear": 675,
+    "dailyMinutesDown": {}
   },
   {
     "name": "eturnal",
@@ -105,18 +95,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/turn.fruw.org.ico",
     "slug": "eturnal",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 478,
-    "timeDay": 532,
-    "timeWeek": 489,
-    "timeMonth": 477,
+    "timeDay": 494,
+    "timeWeek": 490,
+    "timeMonth": 480,
     "timeYear": 478,
-    "dailyMinutesDown": {
-      "2023-12-25": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
