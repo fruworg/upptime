@@ -4,10 +4,10 @@
     "url": "https://fruw.org",
     "icon": "https://icons.duckduckgo.com/ip3/fruw.org.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.67%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.66%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
     "time": 524,
@@ -16,6 +16,7 @@
     "timeMonth": 595,
     "timeYear": 524,
     "dailyMinutesDown": {
+      "2024-02-05": 1,
       "2024-01-31": 33
     }
   },
@@ -24,11 +25,11 @@
     "url": "https://mail.fruw.org",
     "icon": "https://icons.duckduckgo.com/ip3/mail.fruw.org.ico",
     "slug": "mailu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
     "time": 1013,
     "timeDay": 1095,
@@ -36,6 +37,7 @@
     "timeMonth": 1116,
     "timeYear": 1013,
     "dailyMinutesDown": {
+      "2024-02-05": 1,
       "2024-01-31": 16,
       "2024-01-25": 17
     }
@@ -87,9 +89,9 @@
     "url": "https://git.fruw.org",
     "icon": "https://icons.duckduckgo.com/ip3/git.fruw.org.ico",
     "slug": "gitea",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
@@ -99,6 +101,7 @@
     "timeMonth": 761,
     "timeYear": 703,
     "dailyMinutesDown": {
+      "2024-02-05": 0,
       "2024-01-31": 15,
       "2024-01-25": 16
     }
