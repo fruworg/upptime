@@ -12,7 +12,7 @@
     "uptimeYear": "99.98%",
     "time": 530,
     "timeDay": 506,
-    "timeWeek": 630,
+    "timeWeek": 612,
     "timeMonth": 616,
     "timeYear": 530,
     "dailyMinutesDown": {
@@ -32,7 +32,7 @@
     "uptimeYear": "99.98%",
     "time": 1017,
     "timeDay": 854,
-    "timeWeek": 1097,
+    "timeWeek": 1079,
     "timeMonth": 1125,
     "timeYear": 1017,
     "dailyMinutesDown": {
@@ -45,9 +45,9 @@
     "url": "https://matrix.fruw.org",
     "icon": "https://icons.duckduckgo.com/ip3/matrix.fruw.org.ico",
     "slug": "matrix",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
@@ -57,6 +57,7 @@
     "timeMonth": 599,
     "timeYear": 551,
     "dailyMinutesDown": {
+      "2024-02-12": 0,
       "2024-01-31": 16,
       "2024-01-25": 16
     }
@@ -95,7 +96,7 @@
     "uptimeYear": "99.98%",
     "time": 708,
     "timeDay": 742,
-    "timeWeek": 785,
+    "timeWeek": 764,
     "timeMonth": 776,
     "timeYear": 708,
     "dailyMinutesDown": {
