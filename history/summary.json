@@ -24,11 +24,11 @@
     "url": "https://mail.fruw.org",
     "icon": "https://icons.duckduckgo.com/ip3/mail.fruw.org.ico",
     "slug": "mailu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
     "time": 1019,
     "timeDay": 1106,
@@ -36,6 +36,7 @@
     "timeMonth": 1141,
     "timeYear": 1019,
     "dailyMinutesDown": {
+      "2024-02-14": 2,
       "2024-01-31": 16,
       "2024-01-25": 17
     }
@@ -45,11 +46,11 @@
     "url": "https://matrix.fruw.org",
     "icon": "https://icons.duckduckgo.com/ip3/matrix.fruw.org.ico",
     "slug": "matrix",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
     "time": 551,
     "timeDay": 528,
@@ -57,6 +58,7 @@
     "timeMonth": 596,
     "timeYear": 551,
     "dailyMinutesDown": {
+      "2024-02-14": 1,
       "2024-01-31": 16,
       "2024-01-25": 16
     }
@@ -66,10 +68,10 @@
     "url": "https://vault.fruw.org",
     "icon": "https://icons.duckduckgo.com/ip3/vault.fruw.org.ico",
     "slug": "vaultwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 573,
@@ -78,6 +80,7 @@
     "timeMonth": 697,
     "timeYear": 573,
     "dailyMinutesDown": {
+      "2024-02-14": 1,
       "2024-01-31": 16,
       "2024-01-25": 16
     }
@@ -108,9 +111,9 @@
     "url": "https://turn.fruw.org",
     "icon": "https://icons.duckduckgo.com/ip3/turn.fruw.org.ico",
     "slug": "eturnal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
@@ -120,6 +123,7 @@
     "timeMonth": 534,
     "timeYear": 494,
     "dailyMinutesDown": {
+      "2024-02-14": 0,
       "2024-01-31": 15,
       "2024-01-25": 16
     }
