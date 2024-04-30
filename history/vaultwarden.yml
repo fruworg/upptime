@@ -1,7 +1,7 @@
 url: https://vault.fruw.org
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-04-30T09:12:55.965Z
+status: up
+code: 401
+responseTime: 863
+lastUpdated: 2024-04-30T09:34:57.216Z
 startTime: 2023-09-30T19:27:57.070Z
 generator: Upptime <https://github.com/upptime/upptime>
